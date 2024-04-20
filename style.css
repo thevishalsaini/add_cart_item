@@ -1,0 +1,168 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.sidebar {
+    width: 587px;
+    background-color: #f4f4f4;
+}
+
+.details {
+    flex: 1;
+    padding-left: 20px;
+}
+
+#mainPhoto {
+    width: 100%;
+    height: 691px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.bottomPictures {
+    display: flex;
+    justify-content: space-between;
+}
+
+.choicePicture {
+    width: 115px;
+    height: 115px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+strong {
+    color: #3A4980;
+    font-size: 34px;
+
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h3 {
+    color: grey;
+}
+
+hr {
+    margin: 10px 0;
+}
+
+.colorOptions,
+.sizeOptions {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input[type="radio"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.actions {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.quantity {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    background: #F3F3F3;
+    height: 30px;
+    border-radius: 29.5px;
+    
+}
+.quantity-input {
+    width: 50px;
+    text-align: center;
+    margin: 0 10px;
+    border: none;
+    background: #F3F3F3;
+    color: #3A4980;
+    font-weight: bold;
+    
+    
+}
+.plus{
+    border: none;
+    border-radius: 30px;
+    color: #3A4980;
+    font-weight: bold;
+}
+.minus{
+    border: none;
+    border-radius: 30px;
+    color: #3A4980;
+    font-weight: bold;
+}
+
+#txt {
+    height: Hug (21px)px;
+    top: 568px;
+    width: Hug (124px)px;
+    gap: 10px;
+    opacity: 0px;
+    left: 1059px;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+
+#crt {
+    background: #3A4980;
+    color: white;
+    border-radius: 29.5px;
+    width: 309px;
+    height: 59px;
+    top: 549px;
+    left: 966px;
+    border: 0px;
+    cursor: pointer;
+
+}
+
+.specification {
+    margin-bottom: 200px;
+    text-align: justify;
+}
+
+#actual_price {
+    color: grey;
+}
+
+.btn {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+#white {
+    background: #ECDECC;
+}
+
+#green {
+    background: #BBD278;
+
+}
+
+#blue {
+    background: #BBC1F8;
+
+}
+
+#pink {
+    background: #FFD3F8;
+
+}
+
+
+
