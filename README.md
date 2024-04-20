@@ -59,7 +59,7 @@ Follow the steps below to set up and run the application locally:
    - In the cart summary, users can remove items from the cart by clicking the "Remove" button next to each item.
 
 ## Screenshots
-
+https://github.com/thevishalsaini/add_cart_item/blob/main/add_to_cart.png?raw=true
 
 
 ## Contributing
