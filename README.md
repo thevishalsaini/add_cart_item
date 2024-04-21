@@ -59,17 +59,12 @@ Follow the steps below to set up and run the application locally:
    - In the cart summary, users can remove items from the cart by clicking the "Remove" button next to each item.
 
 ## Screenshots
-https://github.com/thevishalsaini/add_cart_item/blob/main/add_to_cart.png?raw=true
+url:- https://github.com/thevishalsaini/add_cart_item/blob/58f18fb07896e4119c101296666980df134a6918/add_to_cart.png
 
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 Feel free to customize the description, sections, and content according to your project's specific details and requirements.
